@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">misgruposv05</string>
+
+    <!-- Manu Principal  -->
+    <string name="boton_crear_grupo">CREAR GRUPO</string>
+    <string name="boton_ver_grupos_cercanos">VER GRUPOS CERCANOS</string>
+    <string name="boton_ver_datos_grupos">VER DATOS GRUPO</string>
+    <string name="boton_mis_grupos">MIS GRUPOS</string>
+    <string name="boton_mis_chats">MIS CHATS</string>
+    <string name="boton_contactos_solicitados">CONTACTOS SOLICITADOS</string>
+    <string name="boton_mis_contactos">MIS CONTACTOS</string>
+    <string name="boton_acerca_de">ACERCA DE</string>
+
+    <!-- Layout Acerca de -->
+    <string name="titulo_acerca_de">Mis Grupos</string>
+    <string name="etiqueta_version_acerca_de">Versión</string>
+    <string name="texto_version_acerca_de">1.0</string>
+    <string name="etiqueta_descripcion_acerca_de">Descripción</string>
+    <string name="texto_descripcion_acerca_de">Aplicación realizada en el curso de Android de IDT. 2016</string>
+
+    <!-- Layout Login -->
+    <string name="titulo_login">Iniciar Sesión en Networking</string>
+    <string name="texto_explicacion_login">Usa tu dirección de correo electrónico y la contraseña que indicaste al crear tu cuenta</string>
+    <string name="prompt_correo_electronico">Correo electrónico</string>
+    <string name="prompt_contrasenha">Contraseña</string>
+    <string name="action_boton_iniciar_sesion">INICIAR SESION</string>
+    <string name="link_contrasenha_olvidada">¿Ha olvidado su contraseña?</string>
+
+    <!-- Layout Crear Cuenta -->
+    <string name="crear_cuenta_titulo">Crear Cuenta</string>
+    <string name="crear_cuenta_descripcion">Al crear una cuenta, podrás crear grupos o acceder a grupos ya creados para conocer personas que están cerca de ti.</string>
+    <string name="crear_cuenta_hint_nombre">Nombre y Apellido</string>
+    <string name="crear_cuenta_hint_nickname">Nickname</string>
+    <string name="crear_cuenta_hint_telefono">Número de teléfono</string>
+    <string name="crear_cuenta_hint_email">Correo electrónico</string>
+    <string name="crear_cuenta_hint_password">Password</string>
+    <string name="crear_cuenta_boton_registrate">Registrate</string>
+
+    <!-- Layout Crear Grupo -->
+    <string name="crear_grupo_titulo"> Creación de Grupo </string>
+    <string name="crear_grupo_descripcion"> Asigna un nombre al grupo y el objetivo del encuentro </string>
+    <string name="crear_grupo_hint_nombre"> Nombre </string>
+    <string name="crear_grupo_hint_objetivo"> Objetivo </string>
+    <string name="crear_grupo_boton_creargrupo"> Crear Grupo </string>
+
+    <!-- Layout Ver Datos Grupo -->
+    <string name="ver_datos_grupo_titulo"> Datos del Grupo </string>
+    <string name="ver_datos_grupo_descripcion"> Muestra los datos del grupo </string>
+    <string name="etiqueta_nombre_grupo"> Nombre:  </string>
+    <string name="etiqueta_objetivo_grupo"> Objetivo:  </string>
+
+    <!-- Layout Inicio -->
+    <string name="inicio_boton_crearcuenta"> Crear Cuenta </string>
+    <string name="inicio_boton_iniciarsesion"> Iniciar Sesión </string>
+</resources>
